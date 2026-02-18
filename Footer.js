@@ -9,3 +9,5 @@ const Footer = () => {
 }
 
 export default Footer
+
+//I AM MAKING G.R.I.D
